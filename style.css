@@ -67,3 +67,7 @@
     font-family: 'Nunito';
     src: url(font/Nunito-VariableFont_wght.ttf);
 }
+
+#works {
+    background-image: url(img/bg-works.jpg);
+}
