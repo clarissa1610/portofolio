@@ -107,14 +107,13 @@
 .details-btn {
     background-color: #fee97d;
     border: 6px solid #858585;
-    color: #858585;
-    padding: 50px 100px;
+    padding: 50px 70px;
     margin: 50px;
     margin-left: 450px;
     border-radius: 30px;
     text-align: center;
     text-decoration: none;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 600;
     letter-spacing: 8px;
     cursor: pointer;
@@ -123,5 +122,11 @@
 }
 
 .details-btn:hover {
-    background-color: #e0cb5e;
+    background-color: #fff687;
+}
+
+.details-text {
+    text-decoration: none;
+    color: #858585;
+    cursor: pointer;
 }
