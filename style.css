@@ -86,8 +86,8 @@
 
 .swiper-background1 {
     background-color: #cfe5ef;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 120px;
+    padding-bottom: 120px;
     margin-left: 150px;
     margin-right: 150px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 40px 0 rgba(0, 0, 0, 0.19);
@@ -102,4 +102,26 @@
     max-width: 972px;
     max-height: 234px;
     object-fit: cover;
+}
+
+.details-btn {
+    background-color: #fee97d;
+    border: 6px solid #858585;
+    color: #858585;
+    padding: 50px 100px;
+    margin: 50px;
+    margin-left: 450px;
+    border-radius: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 8px;
+    cursor: pointer;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.details-btn:hover {
+    background-color: #e0cb5e;
 }
