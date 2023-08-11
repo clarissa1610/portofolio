@@ -156,3 +156,77 @@
 .resto-photo {
     margin-left: 10px;
 }
+
+.resto-link {
+    background-color: #fee97d;
+    border: 6px solid #858585;
+    padding: 30px 60px;
+    margin: 50px;
+    margin-left: 170px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 8px;
+    cursor: pointer;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.resto-link:hover {
+    background-color: #fff687;
+}
+
+.resto-text {
+    text-decoration: none;
+    color: #858585;
+    cursor: pointer;
+}
+
+.hotel-title {
+    position: absolute;
+    padding: 35px;
+    margin-left: 800px;
+}
+
+.hotel-background {
+    background-color: #cfe5ef;
+    
+}
+
+.hotel-photo {
+    background-color: #cfe5ef;
+    position: absolute;
+    padding: 60px 80px;
+    margin-left: 810px;
+    margin-top: 170px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hotel-link {
+    position: absolute;
+    background-color: #fee97d;
+    border: 6px solid #858585;
+    padding: 30px 60px;
+    margin: 50px;
+    margin-top: 845px;
+    margin-left: 930px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 8px;
+    cursor: pointer;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.hotel-link:hover {
+    background-color: #fff687;
+}
+
+.hotel-text {
+    text-decoration: none;
+    color: #858585;
+    cursor: pointer;
+}
