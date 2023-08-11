@@ -230,3 +230,8 @@
     color: #858585;
     cursor: pointer;
 }
+
+.socmed-title {
+    padding: 50px;
+    text-align: center;
+}
