@@ -235,3 +235,47 @@
     padding: 50px;
     text-align: center;
 }
+
+.jlpt-title {
+    text-align: center;
+}
+
+.jlpt-background {
+    background-color: #cfe5ef;
+    padding-top: 70px;
+    padding-bottom: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 40px;
+    border-radius: 40px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.jlpt-post {
+    text-align: center;
+}
+
+.jlpt-insta {
+    background-color: #fee97d;
+    border: 6px solid #858585;
+    padding: 30px 60px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 540px;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 8px;
+    cursor: pointer;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.jlpt-text {
+    text-decoration: none;
+    color: #858585;
+    cursor: pointer;
+}
+
+.jlpt-insta:hover {
+    background-color: #fff687;
+}
