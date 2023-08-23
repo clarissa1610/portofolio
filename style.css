@@ -422,6 +422,8 @@ html, body {
 }
 
 /* CSS FOR PROFILE HTML */
+/* CSS FOR PROFILE HTML */
+/* CSS FOR PROFILE HTML */
 
 #profile-content {
     background-image: url(img/profile/profile-details.jpg);
@@ -468,6 +470,107 @@ html, body {
 }
 
 .activity-title {
-    padding-top: 300px;
+    padding-top: 310px;
     padding-left: 270px;
+}
+
+.activity-bg {
+    background-color: #fee97d;
+    padding-top: 60px;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 60px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.star-bullet1 {
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 50px;
+}
+
+.bnec-title {
+    padding-top: 30px;
+    padding-left: 150px;
+    font-size: 50px;
+    letter-spacing: 5px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.bnec-desc {
+    padding-top: 10px;
+    padding-left: 150px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.star-bullet2 {
+    position: absolute;
+    margin-left: 40px;
+    padding-top: 120px;
+}
+
+.kaiwa-title {
+    padding-top: 90px;
+    margin-left: 150px;
+    font-size: 50px;
+    letter-spacing: 5px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.kaiwa-desc {
+    padding-top: 10px;
+    padding-left: 150px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.star-bullet3 {
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+.ozora-title {
+    padding-top: 60px;
+    padding-left: 140px;
+    font-size: 50px;
+    letter-spacing: 5px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.ozora-desc {
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-bottom: 250px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
 }
