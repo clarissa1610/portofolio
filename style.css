@@ -427,6 +427,7 @@ html, body {
 
 #profile-content {
     background-image: url(img/profile/profile-details.jpg);
+    background-repeat: no-repeat;
 }
 
 .profile-details-title {
@@ -493,6 +494,7 @@ html, body {
 .bnec-title {
     padding-top: 30px;
     padding-left: 150px;
+    margin-top: 50px;
     font-size: 50px;
     letter-spacing: 5px;
     line-height: 60px;
@@ -521,8 +523,8 @@ html, body {
 }
 
 .kaiwa-title {
-    padding-top: 90px;
     margin-left: 150px;
+    margin-top: 100px;
     font-size: 50px;
     letter-spacing: 5px;
     line-height: 60px;
@@ -551,8 +553,8 @@ html, body {
 }
 
 .ozora-title {
-    padding-top: 60px;
     padding-left: 140px;
+    margin-top: 100px;
     font-size: 50px;
     letter-spacing: 5px;
     line-height: 60px;
@@ -565,8 +567,139 @@ html, body {
 .ozora-desc {
     padding-top: 20px;
     padding-left: 150px;
-    padding-bottom: 250px;
+    padding-bottom: 170px;
     font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.skills {
+    padding-bottom: 400px;
+}
+
+.skills-title {
+    padding-top: 220px;
+    padding-left: 520px;
+}
+
+.skills-bg {
+    background-color: #fee97d;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+    margin-left: 170px;
+    margin-right: 170px;
+    border-radius: 60px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.canva-icon {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 630px;
+}
+
+.canva-text {
+    padding-top: 30px;
+    padding-left: 770px;
+    position: absolute;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.english-icon {
+    position: absolute;
+    margin-left: 120px;
+}
+
+.english-text {
+    padding-top: 30px;
+    padding-left: 280px;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.html-icon {
+    position: absolute;
+    padding-top: 90px;
+    margin-left: 640px;
+}
+
+.html-text {
+    padding-top: 120px;
+    margin-left: 775px;
+    position: absolute;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.japanese-icon {
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 110px;
+}
+
+.japanese-text {
+    padding-top: 120px;
+    padding-left: 275px;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.css-icon {
+    position: absolute;
+    padding-top: 80px;
+    margin-left: 640px;
+}
+
+.css-text {
+    padding-top: 120px;
+    margin-left: 780px;
+    position: absolute;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4px;
+    color: #88adda;
+    font-family: 'Nunito';
+    src: url(font/Nunito-VariableFont_wght.ttf);
+}
+
+.photoshop-icon {
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 110px;
+}
+
+.photoshop-text {
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 270px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 4px;
